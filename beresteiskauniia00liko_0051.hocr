@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./beresteiskauniia00liko/beresteiskauniia00liko_0051.png"; bbox 0 0 2181 3305; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 580 1295 1390 1390">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 580 1295 1390 1390">
+     <span class='ocr_line' id='line_1_1' title="bbox 580 1295 1390 1390; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 580 1295 950 1376; x_wconf 77' lang='grc' dir='ltr'>ΚΗΜΓΗ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1028 1295 1390 1390; x_wconf 72' lang='grc' dir='ltr'>ΠΡΥΓΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 134 1459 1843 1514">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 134 1459 1843 1514">
+     <span class='ocr_line' id='line_1_2' title="bbox 134 1459 1843 1514; baseline 0.002 -13"><span class='ocrx_word' id='word_1_3' title='bbox 134 1459 468 1514; x_wconf 68' lang='grc' dir='ltr'>Βῃγτρίωκηῆ</span> <span class='ocrx_word' id='word_1_4' title='bbox 489 1473 608 1502; x_wconf 70' lang='lat' dir='ltr'>c‘ran</span> <span class='ocrx_word' id='word_1_5' title='bbox 622 1463 835 1513; x_wconf 69' lang='lat' dir='ltr'>pycbno&#39;f</span> <span class='ocrx_word' id='word_1_6' title='bbox 846 1461 1042 1513; x_wconf 69' lang='lat' dir='ltr'>uepffffln</span> <span class='ocrx_word' id='word_1_7' title='bbox 1059 1472 1209 1514; x_wconf 63' lang='lat' dir='ltr'><strong>nepen</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1226 1459 1643 1514; x_wconf 60' lang='lat' dir='ltr'>6epecssev⁰1cb1&lt;010</span> <span class='ocrx_word' id='word_1_9' title='bbox 1661 1463 1843 1504; x_wconf 64' lang='lat' dir='ltr'><strong>Yu&#39;t&#39;eno.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 846 1588 1060 1612">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 846 1588 1060 1612">
+     <span class='ocr_line' id='line_1_3' title="bbox 846 1588 1060 1612; baseline 0.005 -12"><span class='ocrx_word' id='word_1_10' title='bbox 846 1588 1060 1612; x_wconf 36' lang='grc' dir='ltr'>ἶ,-.-.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
